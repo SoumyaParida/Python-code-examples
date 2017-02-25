@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Chapter2-LinkedList/.idea/Chapter2-LinkedList.iml" filepath="$PROJECT_DIR$/../Chapter2-LinkedList/.idea/Chapter2-LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hackersRank.iml" filepath="$PROJECT_DIR$/.idea/hackersRank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../markov-sentence-generator/.idea/markov-sentence-generator.iml" filepath="$PROJECT_DIR$/../markov-sentence-generator/.idea/markov-sentence-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../regularExpression/.idea/regularExpression.iml" filepath="$PROJECT_DIR$/../regularExpression/.idea/regularExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../trees/.idea/trees.iml" filepath="$PROJECT_DIR$/../trees/.idea/trees.iml" />
+    </modules>
+  </component>
+</project>
